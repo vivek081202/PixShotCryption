@@ -1,0 +1,12 @@
+streamlit
+streamlit-extras
+pandas
+scikit-learn
+Pillow
+imagehash
+plotly
+numpy
+opencv-python
+scikit-image
+wordcloud
+matplotlib 
