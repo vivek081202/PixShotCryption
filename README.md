@@ -85,3 +85,9 @@ See `requirements.txt` for all dependencies.
 ### Designed and Developed by:
 > **Vivek Kumar Singh**
 > [LinkedIn](https://www.linkedin.com/in/vivek-singh-858941201/)
+
+> **Shruti Sharma**
+> [LinkedIn](https://www.linkedin.com/in/shruti-sharma-9949351a8)
+
+> **Mohd. Hamza**
+> [LinkedIn](https://www.linkedin.com/in/mohd-hamza-648a15319)
